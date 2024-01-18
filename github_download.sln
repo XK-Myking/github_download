@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github_download", "github_download\github_download.csproj", "{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Debug|x64.ActiveCfg = Debug|x64
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Debug|x64.Build.0 = Debug|x64
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Release|x64.ActiveCfg = Release|x64
+		{9D8A8E2A-2F70-461F-8A99-9F06E3F63903}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CFEAE4E-5AE0-42A1-8F66-7E91CD7D0E59}
+	EndGlobalSection
+EndGlobal
